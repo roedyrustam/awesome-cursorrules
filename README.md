@@ -154,10 +154,11 @@ By adding selected `.mdc` files to `.cursor/rules/`, you can use these rules dir
 - [TypeScript (NestJS Anti-Hallucination)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nestjs-anti-hallucination-cursorrules-prompt-file.mdc) - Rules that block deprecated, phantom, or incorrect NestJS imports, decorators, providers, modules, and testing patterns.
 - [TypeScript (NestJS Best Practices)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nestjs-best-practices-cursorrules-promp.mdc) - TypeScript development with NestJS best practices.
 - [TYPO3 CMS Extension](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typo3cms-extension-cursorrules-prompt-file.mdc) - TYPO3 CMS development with extension integration.
+- [vibes-plug](https://github.com/roedyrustam/vibes-plug) - Universal AI plugin dengan 134+ specialized skills untuk Cursor, Claude Code & Antigravity. Multi-agent swarm orchestration dari zero ke production.
 - [WordPress (PHP, Guzzle, Gutenberg)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-.mdc) - WordPress development with PHP, Guzzle, and Gutenberg integration.
 - [WordPress (macOS)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt.mdc) - WordPress development on macOS.
 - [WordPress Full AI Stack](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-claude-stack.mdc) - Complete AI coding setup for WordPress — themes, plugins, Gutenberg, WooCommerce, ACF, REST API with Cursor Project Rules, CLAUDE.md, Copilot instructions, and 5 generation skills.
-- [vibes-plug](https://github.com/roedyrustam/vibes-plug) - Universal AI plugin dengan 134+ specialized skills untuk Cursor, Claude Code & Antigravity. Multi-agent swarm orchestration dari zero ke production.
+
 
 
 ### Mobile Development
