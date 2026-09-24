@@ -157,6 +157,8 @@ By adding selected `.mdc` files to `.cursor/rules/`, you can use these rules dir
 - [WordPress (PHP, Guzzle, Gutenberg)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-.mdc) - WordPress development with PHP, Guzzle, and Gutenberg integration.
 - [WordPress (macOS)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt.mdc) - WordPress development on macOS.
 - [WordPress Full AI Stack](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-claude-stack.mdc) - Complete AI coding setup for WordPress — themes, plugins, Gutenberg, WooCommerce, ACF, REST API with Cursor Project Rules, CLAUDE.md, Copilot instructions, and 5 generation skills.
+- [vibes-plug](https://github.com/roedyrustam/vibes-plug) - Universal AI plugin dengan 127 specialized skills untuk Cursor, Claude Code & Antigravity. Multi-agent swarm orchestration dari zero ke production.
+
 
 ### Mobile Development
 
